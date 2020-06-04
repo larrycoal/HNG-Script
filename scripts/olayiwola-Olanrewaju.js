@@ -9,4 +9,4 @@ const value={
     language:"Javascript"
 };
 
-lanreScript(value)
+lanreScript(value);
